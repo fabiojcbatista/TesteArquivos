@@ -12,6 +12,7 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [] Criar before e after para testes
+- [] Mockar a criação de arquivos
 - [] Testar a existência de arquivos após criação
 - [] Deletar tudo o que foi criado
 
